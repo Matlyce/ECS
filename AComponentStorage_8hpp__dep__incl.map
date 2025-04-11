@@ -1,0 +1,15 @@
+<map id="includes/AComponentStorage.hpp" name="includes/AComponentStorage.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,248,31"/>
+<area shape="rect" id="Node000002" href="$ComponentManager_8hpp.html" title=" " alt="" coords="61,152,299,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,43,154,103,176,151,171,153,150,105,131,45"/>
+<area shape="rect" id="Node000004" href="$ECS_8hpp.html" title=" " alt="" coords="152,299,285,324"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="109,43,79,85,50,139,40,167,37,196,40,224,53,249,73,269,98,284,125,295,152,302,151,307,123,300,95,289,70,274,48,252,35,225,31,196,35,166,45,137,74,82,105,40"/>
+<area shape="rect" id="Node000005" href="$ComponentStorage_8hpp.html" title=" " alt="" coords="165,79,398,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="165,34,257,76,255,81,163,39"/>
+<area shape="rect" id="Node000003" href="$Coordinator_8hpp.html" title="Central coordinator for the Entity Component System." alt="" coords="63,225,246,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,191,161,226,156,224,169,189"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="219,182,243,200,261,224,265,246,258,267,233,300,229,297,253,264,259,245,256,226,239,204,216,186"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,259,210,297,206,300,172,263"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="255,114,198,154,195,150,252,110"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="299,115,315,151,315,178,303,217,281,252,258,279,235,300,231,297,254,276,277,249,298,215,309,177,309,153,294,117"/>
+</map>

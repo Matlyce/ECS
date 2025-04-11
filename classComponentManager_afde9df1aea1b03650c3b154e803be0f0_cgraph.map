@@ -1,0 +1,6 @@
+<map id="ComponentManager::addComponent" name="ComponentManager::addComponent">
+<area shape="rect" id="Node000001" title="Adds a component to an entity." alt="" coords="5,37,267,62"/>
+<area shape="rect" id="Node000002" href="$classComponentManager.html#a3298ae9e5eaf1d7f8a207e14d85ac68b" title="Get the Component Storage object." alt="" coords="315,29,575,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,47,301,47,301,52,267,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="388,30,385,20,394,10,414,5,445,3,480,5,499,13,497,18,479,11,445,8,415,10,397,15,390,21,393,28"/>
+</map>

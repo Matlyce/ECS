@@ -1,0 +1,9 @@
+<map id="EntityManager" name="EntityManager">
+<area shape="rect" id="Node000001" title="Manages the creation and destruction of entities." alt="" coords="85,276,226,461"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,156,206"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,205,99,251,102,260,97,262,94,253,83,207"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="181,133,338,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,215,215,263,210,260,236,212"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,5,327,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="262,71,262,117,257,117,257,71"/>
+</map>

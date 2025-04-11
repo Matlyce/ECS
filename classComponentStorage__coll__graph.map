@@ -1,0 +1,9 @@
+<map id="ComponentStorage&lt; T &gt;" name="ComponentStorage&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Stores component data for entities using an unordered map." alt="" coords="66,281,243,427"/>
+<area shape="rect" id="Node000002" href="$classAComponentStorage.html" title="Abstract base class for component arrays." alt="" coords="5,133,189,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,231,134,280,129,282,113,232"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="213,136,357,216"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,218,220,270,216,266,254,215"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,5,297,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,71,288,120,283,120,283,71"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="SystemManager" name="SystemManager">
+<area shape="rect" id="Node000001" title="Manages systems and their component signatures." alt="" coords="125,747,321,892"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,597,220,677"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,676,173,731,168,734,134,678"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,461,180,527"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,527,115,580,110,580,110,527"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="244,589,429,684"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,686,279,734,275,731,305,683"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,461,432,527"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="339,527,339,573,334,573,334,527"/>
+<area shape="rect" id="Node000006" href="$classSystem.html" title="Base class for all systems in the ECS architecture." alt="" coords="246,133,427,399"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="339,399,339,445,334,445,334,399"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="271,5,402,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="339,71,339,117,334,117,334,71"/>
+</map>

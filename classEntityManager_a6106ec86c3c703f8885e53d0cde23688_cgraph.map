@@ -1,0 +1,5 @@
+<map id="EntityManager::getEntities" name="EntityManager::getEntities">
+<area shape="rect" id="Node000001" title="Retrieves all entities." alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000002" href="$classEntityManager.html#a3e317b81330293ef1e0a3739447a9d0e" title="Checks if an entity exists." alt="" coords="248,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,15,235,15,235,21,200,21"/>
+</map>

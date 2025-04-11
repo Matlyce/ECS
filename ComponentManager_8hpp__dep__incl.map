@@ -1,0 +1,8 @@
+<map id="includes/ComponentManager.hpp" name="includes/ComponentManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,280,31"/>
+<area shape="rect" id="Node000002" href="$Coordinator_8hpp.html" title="Central coordinator for the Entity Component System." alt="" coords="5,79,188,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,43,109,80,105,77,139,39"/>
+<area shape="rect" id="Node000003" href="$ECS_8hpp.html" title=" " alt="" coords="94,152,227,177"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="182,40,194,58,203,78,204,100,198,121,175,153,170,150,193,118,199,99,198,79,190,60,178,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,113,152,150,148,154,114,116"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System::getThreshold" name="System::getThreshold">
+<area shape="rect" id="Node000001" title="Get the current execution threshold." alt="" coords="275,5,439,31"/>
+<area shape="rect" id="Node000002" href="$classSystem.html#a10be3a1b36a9ef95b83d904d8383b65b" title="Execute a task when enough time has accumulated." alt="" coords="5,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,21,227,21,227,15,261,15"/>
+</map>

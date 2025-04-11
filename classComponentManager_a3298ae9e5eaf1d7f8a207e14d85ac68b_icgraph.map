@@ -1,0 +1,12 @@
+<map id="ComponentManager::GetComponentStorage" name="ComponentManager::GetComponentStorage">
+<area shape="rect" id="Node000001" title="Get the Component Storage object." alt="" coords="315,85,575,125"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="497,73,479,66,445,63,415,65,397,70,390,76,393,83,388,85,385,75,394,66,414,60,445,58,480,61,499,68"/>
+<area shape="rect" id="Node000002" href="$classComponentManager.html#afde9df1aea1b03650c3b154e803be0f0" title="Adds a component to an entity." alt="" coords="5,5,267,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,82,266,46,211,33,212,28,267,41,380,77"/>
+<area shape="rect" id="Node000003" href="$classComponentManager.html#ac9b631d1e3d30866cfcc76cbe3a7ca24" title="Called when an entity is destroyed." alt="" coords="36,55,236,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,94,236,87,237,82,301,88"/>
+<area shape="rect" id="Node000004" href="$classComponentManager.html#af239b992598a18ce67a51355758da326" title="Gets a component from an entity." alt="" coords="7,120,265,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,120,266,124,265,118,301,115"/>
+<area shape="rect" id="Node000005" href="$classComponentManager.html#a34bc2408c0ec2610e3368bff45d08228" title="Removes a component from an entity." alt="" coords="30,170,242,210"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="365,131,267,159,217,173,216,167,266,154,363,126"/>
+</map>

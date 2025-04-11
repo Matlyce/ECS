@@ -1,0 +1,19 @@
+<map id="includes/System.hpp" name="includes/System.hpp">
+<area shape="rect" id="Node000001" title="Defines the base System class for the ECS framework." alt="" coords="243,5,400,31"/>
+<area shape="rect" id="Node000002" href="$Types_8hpp.html" title="Core type definitions for the ECS framework." alt="" coords="38,79,125,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,33,134,77,133,72,282,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="149,79,216,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="300,33,219,75,216,70,298,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="241,79,303,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="315,33,290,69,286,66,311,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="327,79,414,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="332,29,357,66,353,69,327,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="439,79,519,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="348,28,442,71,440,75,346,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="543,79,585,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="365,28,530,76,529,81,363,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,106,55,142,50,139,72,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="96,152,155,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="91,103,113,139,109,142,86,106"/>
+</map>

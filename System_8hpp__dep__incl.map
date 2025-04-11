@@ -1,0 +1,10 @@
+<map id="includes/System.hpp" name="includes/System.hpp">
+<area shape="rect" id="Node000001" title="Defines the base System class for the ECS framework." alt="" coords="82,5,239,31"/>
+<area shape="rect" id="Node000002" href="$SystemManager_8hpp.html" title="Manages registration and retrieval of systems in the ECS framework." alt="" coords="54,79,267,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,44,163,79,158,79,158,44"/>
+<area shape="rect" id="Node000003" href="$Coordinator_8hpp.html" title="Central coordinator for the Entity Component System." alt="" coords="5,152,188,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,116,109,154,105,150,139,113"/>
+<area shape="rect" id="Node000004" href="$ECS_8hpp.html" title=" " alt="" coords="94,225,227,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="182,113,194,131,203,151,204,173,198,194,175,227,170,224,193,192,199,172,198,153,190,134,178,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,186,152,223,148,227,114,189"/>
+</map>

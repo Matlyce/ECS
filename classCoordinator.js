@@ -1,0 +1,28 @@
+var classCoordinator =
+[
+    [ "addComponent", "classCoordinator.html#a38179502eab0f2dadcc6a9ba49ec149b", null ],
+    [ "createEntity", "classCoordinator.html#ada9b6182047cfc657aff195cdbb19270", null ],
+    [ "destroyEntity", "classCoordinator.html#aafd7f295bc0f5dcf54e060748f68ab53", null ],
+    [ "destroyEntitySync", "classCoordinator.html#a68bed56eb86fb4176f53ce500429b4ab", null ],
+    [ "entityExists", "classCoordinator.html#a3c2a48e9c99da0da46839ff1cdebd25e", null ],
+    [ "getAllEntitiesWith", "classCoordinator.html#aec538d59aee7819409a09acc8be188b0", null ],
+    [ "getComponent", "classCoordinator.html#a0fd41c43ef178b1b6b8b08f149a3cebc", null ],
+    [ "getComponentTypeID", "classCoordinator.html#a2ace979a7ab5abd778fdc0b52f823fa7", null ],
+    [ "getEcsMutex", "classCoordinator.html#a1ac497671ca2c348b78b79c3fb1fd816", null ],
+    [ "getEnqueuedCommandsCount", "classCoordinator.html#ae1ffad76e5269463af7063669074c544", null ],
+    [ "getEntities", "classCoordinator.html#a7708e137fd1da74370b19b92e530c766", null ],
+    [ "getEntitySignature", "classCoordinator.html#ab199b65713c1abc5a8409e49da539131", null ],
+    [ "getSystem", "classCoordinator.html#ab2f649f5f910e217ec26547cbf845860", null ],
+    [ "hasComponent", "classCoordinator.html#a7f2279ef05bfcf6a465dc3469d3dd600", null ],
+    [ "hasComponentPair", "classCoordinator.html#aee6f6d431ba198aec2a55b832068f619", null ],
+    [ "init", "classCoordinator.html#a70ce14302b4b3d08a97719cb5f9cefd8", null ],
+    [ "registerComponent", "classCoordinator.html#add9d0a2a3c650d779c4e9175b183415a", null ],
+    [ "registerSystem", "classCoordinator.html#a0a269491bac4cd889b8bc451f7ff2198", null ],
+    [ "removeComponent", "classCoordinator.html#aadc8b78646ba7ed2894274abbd954892", null ],
+    [ "setSystemSignature", "classCoordinator.html#a6e52a97668cd56e3522e5303cca66c49", null ],
+    [ "tryGetComponent", "classCoordinator.html#a32fae270e98042f3cd986b428d1199f7", null ],
+    [ "componentManager", "classCoordinator.html#a429348ba1a0847b8d7fb94f16cbf959b", null ],
+    [ "entityManager", "classCoordinator.html#ab40e39c49a81bde36656aa012c795b6d", null ],
+    [ "m_ecsMutex", "classCoordinator.html#ab51fe7eb73879472a9934acbc78e5af5", null ],
+    [ "systemManager", "classCoordinator.html#ab42af0a15f87e9efc56ea10ffb93d0f0", null ]
+];

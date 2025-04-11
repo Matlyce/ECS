@@ -1,0 +1,42 @@
+<map id="Coordinator" name="Coordinator">
+<area shape="rect" id="Node000001" title="Coordinates entities, components, and systems." alt="" coords="749,1172,913,1437"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="341,1029,543,1109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="508,1107,737,1244,734,1248,505,1112"/>
+<area shape="rect" id="Node000003" href="$classComponentManager.html" title="Manages component arrays and types." alt="" coords="283,781,470,967"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,966,426,1013,421,1015,405,968"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,604,217,719"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,717,272,787,269,791,180,721"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,614,512,709"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="379,709,379,765,374,765,374,709"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="271,461,482,541"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="379,542,379,598,374,598,374,542"/>
+<area shape="rect" id="Node000007" href="$classAComponentStorage.html" title="Abstract base class for component arrays." alt="" coords="285,223,469,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="379,309,379,445,374,445,374,309"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="581,1037,817,1102"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="719,1101,751,1156,746,1158,715,1103"/>
+<area shape="rect" id="Node000009" href="$classEntityManager.html" title="Manages the creation and destruction of entities." alt="" coords="629,781,770,967"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="702,967,702,1020,697,1020,697,967"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="536,629,687,694"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="616,694,621,725,630,756,633,765,628,767,625,758,616,726,611,695"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="711,621,869,701"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="776,703,748,767,743,765,771,701"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="803,469,937,534"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="856,535,820,608,815,605,852,533"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="893,621,1108,701"/>
+<area shape="poly" id="edge15_Node000015_Node000012" title=" " alt="" coords="898,532,960,607,956,610,894,536"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="841,1037,1088,1102"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="949,1103,917,1159,912,1156,944,1101"/>
+<area shape="rect" id="Node000014" href="$classSystemManager.html" title="Manages systems and their component signatures." alt="" coords="903,801,1099,947"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="990,948,976,1021,971,1020,985,947"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1003,702,1003,785,998,785,998,702"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1132,614,1317,709"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1177,711,1091,792,1087,788,1174,707"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1129,469,1320,534"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1227,534,1227,597,1222,597,1222,534"/>
+<area shape="rect" id="Node000018" href="$classSystem.html" title="Base class for all systems in the ECS architecture." alt="" coords="1134,133,1315,399"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1227,399,1227,452,1222,452,1222,399"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1159,5,1290,71"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1227,71,1227,117,1222,117,1222,71"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1112,1037,1247,1102"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="1134,1104,928,1242,925,1237,1131,1100"/>
+</map>
