@@ -25,6 +25,33 @@
 var NAVTREE =
 [
   [ "ECS Engine", "index.html", [
+    [ "Introduction", "index.html#autotoc_md1", [
+      [ "What is an ECS?", "index.html#autotoc_md2", null ],
+      [ "Why Use an ECS?", "index.html#autotoc_md3", null ],
+      [ "Use Cases for ECS", "index.html#autotoc_md4", null ]
+    ] ],
+    [ "Features", "index.html#autotoc_md5", null ],
+    [ "Technical Documentation", "index.html#autotoc_md6", null ],
+    [ "File Structure", "index.html#autotoc_md7", null ],
+    [ "Getting Started", "index.html#autotoc_md8", [
+      [ "Prerequisites", "index.html#autotoc_md9", null ],
+      [ "Integration", "index.html#autotoc_md10", [
+        [ "Option 1: Using CMake (recommended)", "index.html#autotoc_md11", null ],
+        [ "Option 2: Manual Integration", "index.html#autotoc_md12", null ]
+      ] ],
+      [ "Usage Example", "index.html#autotoc_md13", null ],
+      [ "Consulting the Source Code", "index.html#autotoc_md14", null ],
+      [ "API Documentation", "index.html#autotoc_md15", null ],
+      [ "Key Files to Explore", "index.html#autotoc_md16", null ]
+    ] ],
+    [ "License & Contributing", "index.html#autotoc_md17", null ],
+    [ "Credit", "index.html#autotoc_md18", null ],
+    [ "Note", "index.html#autotoc_md19", null ],
+    [ "Detailed Technical Analysis of the ECS Engine:", "md_ECS.html", [
+      [ "Algorithmic Complexity for Major ECS Operations", "md_ECS.html#autotoc_md21", [
+        [ "Conclusion", "md_ECS.html#autotoc_md28", null ]
+      ] ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

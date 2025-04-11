@@ -1,11 +1,12 @@
 var indexSectionsWithContent =
 {
-  0: "_acdeghilmnrstu~",
+  0: "12_acdefghiklmnoprstuw~",
   1: "aces",
-  2: "acest",
+  2: "acerst",
   3: "acdeghirstu~",
   4: "_aceglmns",
-  5: "ces"
+  5: "ces",
+  6: "adeot"
 };
 
 var indexSectionNames =
@@ -15,7 +16,8 @@ var indexSectionNames =
   2: "files",
   3: "functions",
   4: "variables",
-  5: "typedefs"
+  5: "typedefs",
+  6: "pages"
 };
 
 var indexSectionLabels =
@@ -25,6 +27,7 @@ var indexSectionLabels =
   2: "Files",
   3: "Functions",
   4: "Variables",
-  5: "Typedefs"
+  5: "Typedefs",
+  6: "Pages"
 };
 
