@@ -1,0 +1,93 @@
+# Doxyfile for ECS Engine
+
+# Project information
+PROJECT_NAME           = "ECS Engine"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "A performant Entity Component System (ECS) engine implemented in C++"
+OUTPUT_DIRECTORY       = ./docs
+
+# Input file configuration
+INPUT                  = ./includes ./README.md ./ECS.md
+RECURSIVE              = YES
+FILE_PATTERNS          = *.hpp *.h *.cpp *.c *.md
+EXTENSION_MAPPING      = hpp=C++ h=C++ cpp=C++ c=C md=Markdown
+
+# Output format configuration
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTML_FILE_EXTENSION    = .html
+GENERATE_LATEX         = NO
+
+# Customization options
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_PACKAGE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+CASE_SENSE_NAMES       = YES
+HIDE_SCOPE_NAMES       = NO
+SHOW_INCLUDE_FILES     = YES
+JAVADOC_AUTOBRIEF      = YES
+QT_AUTOBRIEF           = YES
+MULTILINE_CPP_IS_BRIEF = NO
+INHERIT_DOCS           = YES
+SEPARATE_MEMBER_PAGES  = NO
+TAB_SIZE               = 4
+OPTIMIZE_OUTPUT_FOR_C  = NO
+OPTIMIZE_OUTPUT_JAVA   = NO
+BUILTIN_STL_SUPPORT    = YES
+CPP_CLI_SUPPORT        = NO
+SIP_SUPPORT            = NO
+IDL_PROPERTY_SUPPORT   = YES
+DISTRIBUTE_GROUP_DOC   = NO
+SUBGROUPING            = YES
+
+# GraphViz configuration
+HAVE_DOT               = YES
+DOT_NUM_THREADS        = 0
+UML_LOOK               = YES
+UML_LIMIT_NUM_FIELDS   = 10
+INCLUDE_GRAPH          = YES
+INCLUDED_BY_GRAPH      = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+GRAPHICAL_HIERARCHY    = YES
+DIRECTORY_GRAPH        = YES
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES
+
+# Source browsing
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+STRIP_CODE_COMMENTS    = NO
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION    = YES
+REFERENCES_LINK_SOURCE = YES
+SOURCE_TOOLTIPS        = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+
+# HTML output configuration
+HTML_DYNAMIC_SECTIONS  = YES
+GENERATE_TREEVIEW      = YES
+TREEVIEW_WIDTH         = 250
+SEARCHENGINE           = YES
+
+# Modern theme configuration (doxygen-awesome-css)
+HTML_EXTRA_STYLESHEET  = doxygen-awesome-css/doxygen-awesome.css
+
+HTML_EXTRA_FILES       = doxygen-awesome-css/doxygen-awesome-darkmode-toggle.js \
+                         doxygen-awesome-css/doxygen-awesome-fragment-copy-button.js \
+                         doxygen-awesome-css/doxygen-awesome-paragraph-link.js \
+                         doxygen-awesome-css/doxygen-awesome-interactive-toc.js \
+                         custom/doxygen-light-mode.js
+
+# Enable modern features
+MARKDOWN_SUPPORT       = YES
+TOC_INCLUDE_HEADINGS   = 5
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO
+HTML_COLORSTYLE        = LIGHT
+
+# Additional settings
+HTML_COPY_CLIPBOARD    = YES
+HTML_TIMESTAMP         = YES
