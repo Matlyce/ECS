@@ -47,8 +47,7 @@ ECS/
 ├── CMakeLists.txt
 ├── ECS.md
 ├── LICENSE
-├── README.md
-└── faq.md
+└── README.md
 ```
 
 ## Getting Started
